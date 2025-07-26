@@ -52,26 +52,31 @@ A simple web interface allows users to enter property details and receive a real
 ```bash
 git clone https://github.com/your-username/bangalore-house-price-prediction.git
 cd bangalore-house-price-prediction
+```
 
 ### 2. Set up a virtual environment
 ```bash
 python -m venv venv
 venv\Scripts\activate    # On Windows
 source venv/bin/activate # On Linux/Mac
+```
 
 ### 3. Install dependencies
 ```bash
 pip install -r requirements.txt
+```
 
 ### 4. Run the Flask application
 ```bash
 python server.py
+```
 
 ### 5. Open your browser and visit:
-- http://127.0.0.1:5000
-
+```bash
+http://127.0.0.1:5000
+```
 
 ### This is what our UI looks like :
 ![alt text](image.png)
 
-
+--- 
