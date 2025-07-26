@@ -50,7 +50,7 @@ A simple web interface allows users to enter property details and receive a real
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/bangalore-house-price-prediction.git
+git clone https://github.com/dhruvrohit229/Banglore-House-Price-Prediction.git
 cd bangalore-house-price-prediction
 ```
 
